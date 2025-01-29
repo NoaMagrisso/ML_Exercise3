@@ -7,6 +7,7 @@ This repository contains the implementation and comparison of artificial neural 
 Submitted by:
 
 Noa Magrisso
+
 Shaked Tayouri
 
 ---
@@ -18,7 +19,7 @@ Shaked Tayouri
   - **Two-Hidden-Layer ANN**: An extended version to explore deeper architectures and hierarchical feature learning.
 
 - **Fully Connected Keras Model**:
-  - A fully connected ANN implemented in Keras/TensorFlow to compare performance with the custom models.
+  - A fully connected ANN implemented in Keras to compare performance with the custom models.
 
 - **Metrics for Evaluation**:
 - - **MSE (Mean Squared Error)**: Measures the average squared difference between predicted probabilities and true labels.
