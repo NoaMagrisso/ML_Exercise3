@@ -6,9 +6,8 @@ This repository contains the implementation and comparison of artificial neural 
 
 Submitted by:
 
-Noa Magrisso
-
-Shaked Tayouri
+  - Noa Magrisso
+  - Shaked Tayouri
 
 ---
 
