@@ -1,6 +1,6 @@
 # **Comparing Single Hidden Layer, Two Hidden Layers (based on [Chapter 11](https://github.com/rasbt/machine-learning-book/blob/main/ch11/ch11.ipynb)) and Fully Connected Keras Implementation for MNIST Classification**
 
-This repository contains the implementation and comparison of artificial neural networks (ANNs) with one hidden layer, two hidden layers, and a fully connected implementation in Keras/TensorFlow for the classification of handwritten digits from the MNIST dataset. The work is based on [Chapter 11](https://github.com/rasbt/machine-learning-book/blob/main/ch11/ch11.ipynb) of the book *Machine Learning with PyTorch and Scikit-Learn* by Raschka et al. (2022).
+This repository contains the implementation and comparison of artificial neural networks (ANNs) with one hidden layer, two hidden layers, and a fully connected implementation in Keras for the classification of handwritten digits from the MNIST dataset. The work is based on [Chapter 11](https://github.com/rasbt/machine-learning-book/blob/main/ch11/ch11.ipynb) of the book *Machine Learning with PyTorch and Scikit-Learn* by Raschka et al. (2022).
 
 ---
 
