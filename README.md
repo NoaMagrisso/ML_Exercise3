@@ -21,39 +21,14 @@ Shaked Tayouri
   - A fully connected ANN implemented in Keras/TensorFlow to compare performance with the custom models.
 
 - **Metrics for Evaluation**:
+- - **MSE (Mean Squared Error)**: Measures the average squared difference between predicted probabilities and true labels.
   - **Accuracy**: Measures the correctness of the predictions.
   - **Macro AUC**: Assesses the model's ability to distinguish between all classes with equal weight given to each.
-  - **MSE (Mean Squared Error)**: Measures the average squared difference between predicted probabilities and true labels.
-
+  
 - **Data**:
   - The MNIST dataset is used for training, validation, and testing.
   - Data split: 70% training, 30% testing.
   - Validation split is initialized 10% from training, but other splits were checked.
-
----
-
-## **Setup Instructions**
-
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
-   cd <repository_name>
-   ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter Notebooks:
-   - **Custom Implementations**:
-     ```bash
-     jupyter notebook ch11_modified.ipynb
-     ```
-   - **Keras Implementation**:
-     ```bash
-     jupyter notebook keras_ann.ipynb
-     ```
 
 ---
 
@@ -62,22 +37,6 @@ Shaked Tayouri
 **Different Validation Sizes and Parameters**:
  - This repository includes multiple notebooks with variations in validation sizes and other parameters to test their impact on model performance.
  - These configurations allow for comprehensive experimentation and insights into how the models perform under different setups.
-
----
-
-## **Evaluation and Results**
-
-- **Models**:
-  - **Custom One-Hidden-Layer ANN**
-  - **Custom Two-Hidden-Layer ANN**
-  - **Fully Connected Keras ANN**
-
-- **Metrics**:
-  - MSE
-  - Accuracy
-  - Macro AUC
-
-- Results are summarized in the `results.pdf` file and include comparisons between all three models.
 
 ---
 
