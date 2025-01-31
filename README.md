@@ -1,3 +1,5 @@
+https://github.com/NoaMagrisso/ML_Exercise3/tree/main
+
 # **Comparing ANN Architectures for MNIST Classification (Single Hidden-Layer and 2 Hidden-Layers based on [Chapter 11](https://github.com/rasbt/machine-learning-book/blob/main/ch11/ch11.ipynb)), and Fully Connected Keras ANN Implementation**
 
 This repository contains the implementation and comparison of artificial neural networks (ANNs) for MNIST digit classification. The models include a single-hidden-layer ANN, a two-hidden-layer ANN, and a fully connected Keras implementation. The work is based on [Chapter 11](https://github.com/rasbt/machine-learning-book/blob/main/ch11/ch11.ipynb) of *Machine Learning with PyTorch and Scikit-Learn* by Raschka et al. (2022).
