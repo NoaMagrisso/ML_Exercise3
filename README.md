@@ -1,4 +1,4 @@
-Our GitHub Source Codes - https://github.com/NoaMagrisso/ML_Exercise3/tree/main
+Our GitHub Source Codes - https://github.com/NoaMagrisso/ML_Exercise3
 
 # **Comparing ANN Architectures for MNIST Classification (Single Hidden-Layer and 2 Hidden-Layers based on [Chapter 11](https://github.com/rasbt/machine-learning-book/blob/main/ch11/ch11.ipynb)), and Fully Connected Keras ANN Implementation**
 
